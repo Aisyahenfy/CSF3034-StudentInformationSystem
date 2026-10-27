@@ -16,7 +16,7 @@ public class StudentInformationSystem { // main class
         System.out.println("Student ID: " + studentID);
         
         // ii. Store two marks in variables
-        double mark1 = 45.0;
+        double mark1 = 50.0;
         double mark2 = 42.0;
         
         // iii. Calculate total mark
